@@ -3,7 +3,6 @@
 **Course:** Robotics and Artificial Intelligence  
 **Master:** Sapienza University of Rome  
 **Student:** Edoardo Caciolo (Matricola: 1793918)  
-**Date:** November 17, 2023
 
 ---
 
@@ -78,7 +77,6 @@ The repository also includes the complete code used for the analysis, which comp
 **Course:** Machine Learning  
 **Master:** Robotics and Artificial Intelligence, Sapienza University of Rome  
 **Student:** Edoardo Caciolo (Matricola: 1793918)  
-**Date:** January 09, 2024
 
 ---
 
