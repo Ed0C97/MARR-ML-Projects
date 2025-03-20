@@ -47,8 +47,8 @@ For Dataset 1, SVM without CV was selected, while for Dataset 2, Random Forest w
 
 ## Attached Files
 
-- **Report:** [ML_Homework1_Report_1793918.pdf](./ML_Homework1_Report_1793918.pdf) 📄
-- **Source Code:** [ML_Homework1_1793918.zip](./ML_Homework1_1793918.zip) 📦
+- **Report:** [ML_Homework1_Report_1793918.pdf](Homework-1/ML_Homework1_Report_1793918.pdf) 📄
+- **Source Code:** [ML_Homework1_1793918.zip](Homework-1/ML_Homework1_SourceCode_1793918.ipynb) 📦
 - **Predictions:**
   - Dataset 1: [d1_1793918.csv](./d1_1793918.csv)
   - Dataset 2: [d2_1793918.csv](./d2_1793918.csv)
