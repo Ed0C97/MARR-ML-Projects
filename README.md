@@ -1,7 +1,8 @@
 # Homework 1: 10-class Classification in Machine Learning 🚀
 
-**Course:** Robotics and Artificial Intelligence  
-**Master:** Sapienza University of Rome  
+**Master:** Robotics and Artificial Intelligence
+**University:** La Sapienza University of Rome  
+**Course:** Machine Learning
 **Student:** Edoardo Caciolo (Matricola: 1793918)  
 
 ---
@@ -47,8 +48,8 @@ For Dataset 1, SVM without CV was selected, while for Dataset 2, Random Forest w
 
 ## Attached Files
 
-- **Report:** [ML_Homework1_Report_1793918.pdf](Homework-1/ML_Homework1_Report_1793918.pdf) 📄
-- **Source Code:** [ML_Homework1_1793918.zip](Homework-1/ML_Homework1_SourceCode_1793918.ipynb) 📦
+- **Report:** `ML_Homework1_Report_1793918.pdf` 📄
+- **Source Code:** `ML_Homework1_SourceCode_1793918.ipynb` 📦
 - **Predictions:**
   - Dataset 1: [d1_1793918.csv](./d1_1793918.csv)
   - Dataset 2: [d2_1793918.csv](./d2_1793918.csv)
@@ -134,7 +135,7 @@ Potential future improvements include:
 
 ## Attached Files
 
-- **Report:** [ML_Homework2_Report_1793918.pdf](./ML_Homework2_Report_1793918.pdf) 📄
+- **Report:** `ML_Homework2_Report_1793918.pdf` 📄
 - **Source Code Files:**  
   - `ML_Homework2_SourceCode_1793918.py` (CNN models generation)  
   - `ML_Homework2_evaluation_metrics_1793918.py` (Evaluation of the models)  
@@ -145,7 +146,6 @@ Potential future improvements include:
 - **Evaluation Spreadsheets:** MER ML Homework 2 1793918.xlsx (contains detailed metrics and confusion matrices) 📊
 - **Simulation Video:** ML Homework 2 1793918 m 200013210 simulation video.mp4 🎞️
 - **GitHub Repository:**  
-  [Project 2 Machine Learning GitHub Repository](https://github.com/Ed0C97/Project-2-Machine-Learning.git)
 
 ---
 
