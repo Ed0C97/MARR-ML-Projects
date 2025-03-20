@@ -61,7 +61,6 @@ For Dataset 1, SVM without CV was selected, while for Dataset 2, Random Forest w
 The repository also includes the complete code used for the analysis, which comprises:
 
 - `load_data.py`: Functions for loading data.
-- `ML_Homework1_SourceCode_1793918.ipynb`: Notebook with the implementation and analysis of the models.
 
 ---
 
@@ -69,8 +68,7 @@ The repository also includes the complete code used for the analysis, which comp
 
 
 
----
----
+<br><br><br>
 
 
 # Homework 2: CNN-based Control for Virtual Car Racing 🚗🏁
