@@ -1,9 +1,9 @@
 # Homework 1: 10-class Classification in Machine Learning 🚀
 
-**Master:** Robotics and Artificial Intelligence
-**University:** La Sapienza University of Rome  
-**Course:** Machine Learning
-**Student:** Edoardo Caciolo (Matricola: 1793918)  
+- **Master:** Robotics and Artificial Intelligence
+- **University:** La Sapienza University of Rome  
+- **Course:** Machine Learning
+- **Student:** Edoardo Caciolo (Matricola: 1793918)  
 
 ---
 
@@ -73,10 +73,11 @@ The repository also includes the complete code used for the analysis, which comp
 
 # Homework 2: CNN-based Control for Virtual Car Racing 🚗🏁
 
-**Course:** Machine Learning  
-**Master:** Robotics and Artificial Intelligence, Sapienza University of Rome  
-**Student:** Edoardo Caciolo (Matricola: 1793918)  
-
+- **Master:** Robotics and Artificial Intelligence
+- **University:** La Sapienza University of Rome  
+- **Course:** Machine Learning
+- **Student:** Edoardo Caciolo (Matricola: 1793918)  
+ 
 ---
 
 ## Introduction
